@@ -1,0 +1,9 @@
+gym==0.21.0
+gym-donkeycar
+stable-baselines3[extra]
+torch>=1.12.1
+numpy<2.0
+opencv-python
+matplotlib
+tensorboard
+pyyaml

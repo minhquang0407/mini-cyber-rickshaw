@@ -1,0 +1,14 @@
+data/
+tub_*/
+
+models/
+*.h5
+*.tflite
+*.savedmodel
+
+myconfig.py
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
