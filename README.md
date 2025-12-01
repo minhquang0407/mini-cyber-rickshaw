@@ -56,7 +56,7 @@ This project addresses the trade-off between **speed** and **passenger comfort**
 ### 2. Environment Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/mini-cyber-rickshaw.git](https://github.com/YourUsername/mini-cyber-rickshaw.git)
+git clone [https://github.com/minhquang0407/mini-cyber-rickshaw.git](https://github.com/minhquang0407/mini-cyber-rickshaw.git)
 cd mini-cyber-rickshaw
 
 # Create Conda environment
